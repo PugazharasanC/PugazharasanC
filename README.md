@@ -53,6 +53,7 @@ I'm currently working on creating detailed notes on various topics. Check out my
 - [JavaScript Notes](https://github.com/PugazharasanC/JS-Notes)
 - [Git and GitHub Notes](https://github.com/PugazharasanC/git-and-github)
 - [Netlify Hosting Notes](https://github.com/PugazharasanC/Netlify-Notes)
+- [HTML Notes](https://github.com/PugazharasanC/HTML-Notes)
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop me a message.
 
