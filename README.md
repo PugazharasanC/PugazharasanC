@@ -57,6 +57,33 @@ I'm currently working on creating detailed notes on various topics. Check out my
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop me a message.
 
+## 🚀 Demo Applications
+
+Explore the demo applications I've developed to demonstrate various concepts and technologies:
+
+1. **Position Demo**
+   - **Description:** Explore the different CSS positioning properties with this interactive demo. Understand how elements are positioned within a container using values like `relative`, `absolute`, `fixed`, and more.
+   - **Link:** [Position Demo](https://positiondemo.netlify.app/)
+
+2. **Query Selector Demo**
+   - **Description:** Learn about the power of the `querySelector` method in JavaScript. This demo allows you to experiment with various selectors to efficiently target and manipulate DOM elements.
+   - **Link:** [Query Selector Demo](https://query-selector.netlify.app/)
+
+3. **Bootstrap Container Grid**
+   - **Description:** Dive into responsive web design with Bootstrap's container and grid system. This demo illustrates how to create flexible and adaptive layouts using Bootstrap classes.
+   - **Link:** [Bootstrap Container Grid](https://bs-container-grid.netlify.app/)
+
+4. **Event Listener Demo**
+   - **Description:** Understand the fundamentals of event listeners in JavaScript. This demo lets you interact with different HTML elements and observe the events triggered by various user actions.
+   - **Link:** [Event Listener Demo](https://event-listener-demo.netlify.app/)
+
+5. **CSS Measurements Demo**
+   - **Description:** Explore different units of measurement in CSS, including pixels, percentages, em, and rem. This demo provides a hands-on experience in understanding and visualizing these measurements.
+   - **Link:** [CSS Measurements Demo](https://css-measurements.netlify.app/)
+
+Feel free to explore and interact with these demos to grasp the concepts behind them. If you have any questions or feedback, don't hesitate to reach out!
+
+
 ## 📊 GitHub Stats
 
 ![Pugazharsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PugazharasanC&show_icons=true&theme=radical)
