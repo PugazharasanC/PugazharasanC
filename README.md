@@ -50,10 +50,11 @@ I believe problem-solving or programming is really easy compared to communicatin
 ## 📚 Notes
 
 I'm currently working on creating detailed notes on various topics. Check out my notes repositories:
-- [JavaScript Notes](https://github.com/PugazharasanC/JS-Notes)
 - [Git and GitHub Notes](https://github.com/PugazharasanC/git-and-github)
-- [Netlify Hosting Notes](https://github.com/PugazharasanC/Netlify-Notes)
 - [HTML Notes](https://github.com/PugazharasanC/HTML-Notes)
+- [Shortcut Mastery Guide](https://github.com/PugazharasanC/Shortcut-Mastery-Guide)
+- [JavaScript Notes](https://github.com/PugazharasanC/JS-Notes)
+- [Netlify Hosting Notes](https://github.com/PugazharasanC/Netlify-Notes)
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop me a message.
 
