@@ -47,16 +47,31 @@ He/Him
 
 I believe problem-solving or programming is really easy compared to communicating with fellow people.
 
-## 📚 Notes
+## 🌟 Major Repositories
 
-I'm currently working on creating detailed notes on various topics. Check out my notes repositories:
-- [Git and GitHub Notes](https://github.com/PugazharasanC/git-and-github)
-- [HTML Notes](https://github.com/PugazharasanC/HTML-Notes)
-- [JavaScript Notes](https://github.com/PugazharasanC/JS-Notes)
-- [Shortcut Mastery Guide](https://github.com/PugazharasanC/Shortcut-Mastery-Guide)
-- [Netlify Hosting Notes](https://github.com/PugazharasanC/Netlify-Notes)
+Explore some of my major repositories with their star counts:
 
-Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop me a message.
+1. **[Git and GitHub Notes](https://github.com/PugazharasanC/git-and-github)**
+   - **Description:** A collection of notes covering Git and GitHub usage and workflows.
+   - **Stars:** ![Git and GitHub Notes Stars](https://img.shields.io/github/stars/PugazharasanC/git-and-github?style=social)
+
+2. **[HTML Notes](https://github.com/PugazharasanC/HTML-Notes)**
+   - **Description:** Detailed notes on HTML, covering markup and structure.
+   - **Stars:** ![HTML Notes Stars](https://img.shields.io/github/stars/PugazharasanC/HTML-Notes?style=social)
+
+3. **[JavaScript Notes](https://github.com/PugazharasanC/JS-Notes)**
+   - **Description:** Comprehensive notes on JavaScript concepts and best practices.
+   - **Stars:** ![JavaScript Notes Stars](https://img.shields.io/github/stars/PugazharasanC/JS-Notes?style=social)
+
+4. **[Shortcut Mastery Guide](https://github.com/PugazharasanC/Shortcut-Mastery-Guide)**
+   - **Description:** A guide to shortcut keys for enhanced productivity in VS Code.
+   - **Stars:** ![Shortcut Mastery Guide Stars](https://img.shields.io/github/stars/PugazharasanC/Shortcut-Mastery-Guide?style=social)
+
+5. **[Netlify Hosting Notes](https://github.com/PugazharasanC/Netlify-Notes)**
+   - **Description:** Notes on deploying and hosting web applications using Netlify.
+   - **Stars:** ![Netlify Hosting Notes Stars](https://img.shields.io/github/stars/PugazharasanC/Netlify-Notes?style=social)
+
+Feel free to explore and contribute to these repositories. If you find them helpful, consider giving them a star!
 
 ## 🚀 Demo Applications
 
