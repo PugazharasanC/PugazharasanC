@@ -71,12 +71,17 @@ Explore some of my major repositories with their star counts:
    - **Description:** A guide to shortcut keys for enhanced productivity in VS Code.
    - **Stars:** ![Shortcut Mastery Guide Stars](https://img.shields.io/github/stars/PugazharasanC/Shortcut-Mastery-Guide?style=social)
 
-5. **[Netlify Hosting Notes](https://github.com/PugazharasanC/Netlify-Notes)**
+5. **[Tailwind CSS Learning Repository](https://github.com/PugazharasanC/Tailwind-Notes)**
+
+   - **Description:** A utility-first CSS framework that empowers developers to build custom designs directly in their HTML.
+   - **Stars:** ![Tailwind CSS Learning Repository Stars](https://img.shields.io/github/stars/PugazharasanC/Tailwind-Notes?style=social)
+
+6. **[Netlify Hosting Notes](https://github.com/PugazharasanC/Netlify-Notes)**
 
    - **Description:** Notes on deploying and hosting web applications using Netlify.
    - **Stars:** ![Netlify Hosting Notes Stars](https://img.shields.io/github/stars/PugazharasanC/Netlify-Notes?style=social)
 
-6. **[Node-React-Vercel Deploy Notes](https://github.com/PugazharasanC/Node-React-Vercel)**
+7. **[Node-React-Vercel Deploy Notes](https://github.com/PugazharasanC/Node-React-Vercel)**
 
    - **Description:** Source code for a React application deployed to Vercel, demonstrating deployment using Vite or Create React App, with a deployment guide in the README.
    - **Stars:** ![Node-React-Vercel Stars](https://img.shields.io/github/stars/PugazharasanC/Node-React-Vercel?style=social)
