@@ -66,22 +66,27 @@ Explore some of my major repositories with their star counts:
    - **Description:** Comprehensive notes on JavaScript concepts and best practices.
    - **Stars:** ![JavaScript Notes Stars](https://img.shields.io/github/stars/PugazharasanC/JS-Notes?style=social)
 
-4. **[Shortcut Mastery Guide](https://github.com/PugazharasanC/Shortcut-Mastery-Guide)**
+4. **[React Notes](https://github.com/PugazharasanC/React-Notes)**
+
+   - **Description:** A comprehensive guide covering essential React concepts, from basics to advanced topics like Hooks, Context API, and Routing.
+   - **Stars:** ![React Notes Stars](https://img.shields.io/github/stars/PugazharasanC/React-Notes?style=social)
+
+5. **[Shortcut Mastery Guide](https://github.com/PugazharasanC/Shortcut-Mastery-Guide)**
 
    - **Description:** A guide to shortcut keys for enhanced productivity in VS Code.
    - **Stars:** ![Shortcut Mastery Guide Stars](https://img.shields.io/github/stars/PugazharasanC/Shortcut-Mastery-Guide?style=social)
 
-5. **[Tailwind CSS Learning Repository](https://github.com/PugazharasanC/Tailwind-Notes)**
+6. **[Tailwind CSS Learning Repository](https://github.com/PugazharasanC/Tailwind-Notes)**
 
    - **Description:** A utility-first CSS framework that empowers developers to build custom designs directly in their HTML.
    - **Stars:** ![Tailwind CSS Learning Repository Stars](https://img.shields.io/github/stars/PugazharasanC/Tailwind-Notes?style=social)
 
-6. **[Netlify Hosting Notes](https://github.com/PugazharasanC/Netlify-Notes)**
+7. **[Netlify Hosting Notes](https://github.com/PugazharasanC/Netlify-Notes)**
 
    - **Description:** Notes on deploying and hosting web applications using Netlify.
    - **Stars:** ![Netlify Hosting Notes Stars](https://img.shields.io/github/stars/PugazharasanC/Netlify-Notes?style=social)
 
-7. **[Node-React-Vercel Deploy Notes](https://github.com/PugazharasanC/Node-React-Vercel)**
+8. **[Node-React-Vercel Deploy Notes](https://github.com/PugazharasanC/Node-React-Vercel)**
 
    - **Description:** Source code for a React application deployed to Vercel, demonstrating deployment using Vite or Create React App, with a deployment guide in the README.
    - **Stars:** ![Node-React-Vercel Stars](https://img.shields.io/github/stars/PugazharasanC/Node-React-Vercel?style=social)
